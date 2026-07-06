@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "2.2.1",
-  "apkUrl": "https://github.com/LongDP10/Quiz-App/releases/download/v2.2.1/app-debug.apk",
+  "versionCode": 1,
+  "versionName": "2.1.1",
+  "apkUrl": "https://github.com/LongDP10/Quiz-App/releases/download/v2.1.1/app-debug.apk",
   "forceUpdate": true,
   "minSupportedVersionCode": 1,
   "releaseNotes": "- Cập nhật lại câu hỏi"
